@@ -32,11 +32,19 @@ brew install --cask qnotes
 - Apple Silicon (M1/M2/M3)
 - 500MB可用空间
 
+## 📖 详细使用教程
+
+查看完整的使用教程：[QNotes使用指南](https://xiangyangqiaomu.feishu.cn/wiki/CHp0woTaLi166Cksb1BcbzQhns8)
+
 ## 🛡️ 安全说明
 
 - ✅ 已通过Apple开发者证书签名
 - ✅ 包含完整Chromium引擎支持
 - ⚠️ 首次运行需在系统偏好设置中允许
+
+## 🐛 问题反馈
+
+如遇到问题，请在 [GitHub Issues](https://github.com/joeseesun/qnotes-app/issues) 中反馈
 
 ---
 
